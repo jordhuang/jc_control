@@ -1,8 +1,8 @@
 # Jaynes--Cummings (JC) control 
 
-JC control is a fast, gate-set-based protocol for the quantum control of an oscillator coupled to a qubit through a JC interaction. 
+Jaynes--Cummings (JC) control is a fast, gate-set-based protocol for the quantum control of an oscillator coupled to a qubit through a JC interaction. 
 
-This repository contains code to run the Jaynes--Cummings (JC) control package. The code in here can be used to optimize gate decompositions into circuit parameters to be used in experiment. 
+This repository contains code to run the JC control package. The code in here can be used to optimize gate decompositions into circuit parameters to be used in experiment. 
 
 For more information, see the paper: 
 
