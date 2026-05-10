@@ -12,4 +12,4 @@ The code is compatible with Python (3.13.11), PyTorch (2.10), QuTiP (5.2.3), Num
 
 ## Usage
 
-The optimization code is self contained in 
+The optimization code is self contained in the Jupyter Notebook `jaynes_cummings_control.ipynb`. The notebook also contains examples. 
