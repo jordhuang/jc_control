@@ -6,6 +6,8 @@ This repository contains code to run the JC control package. The code in here ca
 
 For more information, see the paper: 
 
+Questions, comments, and issues can be directed to Jordan Huang (jah499@scarletmail.rutgers.edu) and Srivatsan Chakram (schakram@physics.rutgers.edu). 
+
 ## Python requirements
 
 The code is compatible with Python (3.13.11), PyTorch (2.10), QuTiP (5.2.3), NumPy (2.3.5), and h5py (3.15.1). It may work with later versions. 
